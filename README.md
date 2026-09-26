@@ -34,7 +34,6 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [humans](https://github.com/MickyBalladelli/humans) — Interactive exploration of 7 million years of human evolution, including 3D images and descriptions.
 - [ocean-sim](https://github.com/MickyBalladelli/ocean-sim) — Ocean simulation and visualization project.
 - [spectra](https://github.com/MickyBalladelli/spectra) — Search console for messy document collections, helping teams turn unstructured files into searchable knowledge.
-- [MickyBalladelli.github.io](https://github.com/MickyBalladelli/MickyBalladelli.github.io) — Personal GitHub Pages site.
 
 ### Frameworks, UI kits, and developer tooling
 
@@ -59,9 +58,6 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [waves](https://github.com/MickyBalladelli/waves) — Experimental visual/media project.
 - [YASD](https://github.com/MickyBalladelli/YASD) — Project repository with an unclear or experimental focus.
 
-### Miscellaneous and personal projects
-
-- [MickyBalladelli](https://github.com/MickyBalladelli/MickyBalladelli) — Main profile repository.
 
 ## Summary
 
