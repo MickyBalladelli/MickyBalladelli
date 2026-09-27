@@ -18,6 +18,7 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [OxideLM](https://github.com/MickyBalladelli/OxideLM) — Bare-metal pure-Rust transformer engine with custom reverse-mode autograd, BPE tokenization, and wgpu acceleration.
 - [qwythos](https://github.com/MickyBalladelli/qwythos) — Custom model based on the uncensored Qwythos-9B-Abliterated base model and optimized via Ollama.
 - [bonsai](https://github.com/MickyBalladelli/bonsai) — Repository compression tool for compact, token-efficient XML/JSON context packaging used with LLMs and agent workflows.
+- [ImageGen](https://github.com/MickyBalladelli/ImageGen) — Image-generation or creative media experiment.
 - [auraroute](https://github.com/MickyBalladelli/auraroute) — Work-in-progress routing or platform project.
   
 ### macOS utilities and desktop tools
@@ -33,7 +34,7 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [asteroids](https://github.com/MickyBalladelli/asteroids) — Asteroid orbit viewer using NASA data, including dangerous-object tracking and descriptions.
 - [virusglobe](https://github.com/MickyBalladelli/virusglobe) — Coronavirus data visualization built with React and Globe.js.
 - [humans](https://github.com/MickyBalladelli/humans) — Interactive exploration of 7 million years of human evolution, including 3D images and descriptions.
-- [ocean-sim](https://github.com/MickyBalladelli/ocean-sim) — Ocean simulation and visualization project.
+- [ocean-sim](https://github.com/MickyBalladelli/ocean-sim) — Ocean simulation and visualization project. Very basic.
 - [spectra](https://github.com/MickyBalladelli/spectra) — Search console for messy document collections, helping teams turn unstructured files into searchable knowledge.
 
 ### Frameworks, UI kits, and developer tooling
@@ -50,11 +51,12 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [Markdown](https://github.com/MickyBalladelli/Markdown) — VS Code extension for markdown-related tooling and utilities.
 - [book-text-format](https://github.com/MickyBalladelli/book-text-format) — Text formatting utility project.
 
-### Operating systems and compiler work
+### Operating systems and compilers and databases work
 
 - [GhostOS](https://github.com/MickyBalladelli/GhostOS) — Experimental operating system project focused on building a custom OS architecture and system-level foundations.
 - [lumen](https://github.com/MickyBalladelli/lumen) — Compiler project exploring language design and low-level compilation pipelines.
-
+- [YASD](https://github.com/MickyBalladelli/YASD) — In memory database.
+  
 ### Social and web experiences
 
 - [Links](https://github.com/MickyBalladelli/Links) — Real-time messaging and social interaction project focused on live communication and community connections.
@@ -68,9 +70,8 @@ This README reflects the public repositories currently visible on my GitHub prof
 
 ### Graphics, media, and experiments
 
-- [ImageGen](https://github.com/MickyBalladelli/ImageGen) — Image-generation or creative media experiment.
 - [waves](https://github.com/MickyBalladelli/waves) — Experimental visual/media project.
-- [YASD](https://github.com/MickyBalladelli/YASD) — In memory database.
+
 
 ### Other small tools and scripts
 - [Get-FontName](https://github.com/MickyBalladelli/Get-FontName) — Utility to retrieve a font name from a TTF file.
