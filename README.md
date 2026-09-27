@@ -34,7 +34,6 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [asteroids](https://github.com/MickyBalladelli/asteroids) — Asteroid orbit viewer using NASA data, including dangerous-object tracking and descriptions.
 - [virusglobe](https://github.com/MickyBalladelli/virusglobe) — Coronavirus data visualization built with React and Globe.js.
 - [humans](https://github.com/MickyBalladelli/humans) — Interactive exploration of 7 million years of human evolution, including 3D images and descriptions.
-- [ocean-sim](https://github.com/MickyBalladelli/ocean-sim) — Ocean simulation and visualization project. Very basic.
 - [spectra](https://github.com/MickyBalladelli/spectra) — Search console for messy document collections, helping teams turn unstructured files into searchable knowledge.
 
 ### Frameworks, UI kits, and developer tooling
