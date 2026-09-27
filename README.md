@@ -48,7 +48,12 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [Ghost](https://github.com/MickyBalladelli/Ghost) — VS Code extension / local agent experience for Ollama, MLX/VLM, and compatible local model providers.
 - [Markdown](https://github.com/MickyBalladelli/Markdown) — VS Code extension for markdown-related tooling and utilities.
 - [book-text-format](https://github.com/MickyBalladelli/book-text-format) — Text formatting utility project.
-  
+
+### Operating systems and compiler work
+
+- [GhostOS](https://github.com/MickyBalladelli/GhostOS) — Experimental operating system project focused on building a custom OS architecture and system-level foundations.
+- [lumen](https://github.com/MickyBalladelli/lumen) — Compiler project exploring language design and low-level compilation pipelines.
+
 ### Social and web experiences
 
 - [Echo](https://github.com/MickyBalladelli/Echo) — Social network-style project focused on community, interaction, and connected user experiences.
