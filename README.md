@@ -70,11 +70,11 @@ This README reflects the public repositories currently visible on my GitHub prof
 
 - [ImageGen](https://github.com/MickyBalladelli/ImageGen) — Image-generation or creative media experiment.
 - [waves](https://github.com/MickyBalladelli/waves) — Experimental visual/media project.
-- [YASD](https://github.com/MickyBalladelli/YASD) — Project repository with an unclear or experimental focus.
+- [YASD](https://github.com/MickyBalladelli/YASD) — In memory database.
 
 ### Other small tools and scripts
 - [Get-FontName](https://github.com/MickyBalladelli/Get-FontName) — Utility to retrieve a font name from a TTF file.
-- 
+
 ## Summary
 
 The work spans a wide set of interests:
