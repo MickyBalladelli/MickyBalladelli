@@ -40,10 +40,18 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [Matrix](https://github.com/MickyBalladelli/Matrix) — Tiny reactive JavaScript framework with signals, effects, computed state, and direct DOM updates without a virtual DOM.
 - [Prism](https://github.com/MickyBalladelli/Prism) — UI kit for Matrix, including layout, form, navigation, feedback, overlay, data, code, and icon components.
 - [react-things](https://github.com/MickyBalladelli/react-things) — Collection of React and Material UI components for many practical and experimental UI ideas.
-- [Markdown](https://github.com/MickyBalladelli/Markdown) — Markdown-related project and utilities.
+
+
+### VS Code extensions
+
+- [bonsai](https://github.com/MickyBalladelli/bonsai) — VS Code and agent tooling for compact repository compression and LLM context packaging.
+- [Ghost](https://github.com/MickyBalladelli/Ghost) — VS Code extension / local agent experience for Ollama, MLX/VLM, and compatible local model providers.
+- [Markdown](https://github.com/MickyBalladelli/Markdown) — VS Code extension for markdown-related tooling and utilities.
 - [book-text-format](https://github.com/MickyBalladelli/book-text-format) — Text formatting utility project.
-- [Echo](https://github.com/MickyBalladelli/Echo) — Project focused on lightweight text or signal processing.
-- [Get-FontName](https://github.com/MickyBalladelli/Get-FontName) — Utility to retrieve a font name from a TTF file.
+  
+### Social and web experiences
+
+- [Echo](https://github.com/MickyBalladelli/Echo) — Social network-style project focused on community, interaction, and connected user experiences.
 
 ### Systems, automation, and scripting
 
@@ -58,7 +66,9 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [waves](https://github.com/MickyBalladelli/waves) — Experimental visual/media project.
 - [YASD](https://github.com/MickyBalladelli/YASD) — Project repository with an unclear or experimental focus.
 
-
+### Other small tools and scripts
+- [Get-FontName](https://github.com/MickyBalladelli/Get-FontName) — Utility to retrieve a font name from a TTF file.
+- 
 ## Summary
 
 The work spans a wide set of interests:
