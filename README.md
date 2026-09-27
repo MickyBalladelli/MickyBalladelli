@@ -56,6 +56,7 @@ This README reflects the public repositories currently visible on my GitHub prof
 
 ### Social and web experiences
 
+- [Links](https://github.com/MickyBalladelli/Links) — Real-time messaging and social interaction project focused on live communication and community connections.
 - [Echo](https://github.com/MickyBalladelli/Echo) — Social network-style project focused on community, interaction, and connected user experiences.
 
 ### Systems, automation, and scripting
