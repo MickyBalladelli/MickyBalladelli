@@ -18,7 +18,8 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [OxideLM](https://github.com/MickyBalladelli/OxideLM) — Bare-metal pure-Rust transformer engine with custom reverse-mode autograd, BPE tokenization, and wgpu acceleration.
 - [qwythos](https://github.com/MickyBalladelli/qwythos) — Custom model based on the uncensored Qwythos-9B-Abliterated base model and optimized via Ollama.
 - [bonsai](https://github.com/MickyBalladelli/bonsai) — Repository compression tool for compact, token-efficient XML/JSON context packaging used with LLMs and agent workflows.
-
+- [auraroute](https://github.com/MickyBalladelli/auraroute) — Work-in-progress routing or platform project.
+  
 ### macOS utilities and desktop tools
 
 - [authenticator](https://github.com/MickyBalladelli/authenticator) — Lightweight native macOS menu-bar 2FA/TOTP authenticator built with SwiftUI, CryptoKit, and Keychain Services.
@@ -64,7 +65,6 @@ This README reflects the public repositories currently visible on my GitHub prof
 - [2048](https://github.com/MickyBalladelli/2048) — 2048 game written in PowerShell.
 - [Powershell-DSC-Pull-server](https://github.com/MickyBalladelli/Powershell-DSC-Pull-server) — Example scripts and configuration for PowerShell DSC pull-server scenarios.
 - [PSUnity](https://github.com/MickyBalladelli/PSUnity) — Monitoring systems built with PowerShell and Unity.
-- [auraroute](https://github.com/MickyBalladelli/auraroute) — Work-in-progress routing or platform project.
 
 ### Graphics, media, and experiments
 
